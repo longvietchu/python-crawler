@@ -1,3 +1,6 @@
 .vscode
 venv-crawler
 test
+database
+logs
+__pycache__
